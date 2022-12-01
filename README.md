@@ -48,7 +48,7 @@ And since there are no immediate plans on selling kits or making the Penkesu Com
 - Electronics
     - Raspberry Pi [Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
     - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=606090+battery)
-    - Adafruit [PowerBoost 1000C](https://www.adafruit.com/product/2465)
+    - SparkFun [LiPo Charger/Booster - 5V/1A](https://www.sparkfun.com/products/14411)
 - Keyboard
     - Kailh Low Profile [Choc v1](https://www.adafruit.com/product/5114) Switches x 48
     - MBK Choc Low Profile Keycaps x 48
